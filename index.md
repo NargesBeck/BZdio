@@ -1,8 +1,5 @@
-## Welcome to BZdio
+## BZdio
 
-BZdio is my indie open source game development studio.
+BZdio is an indie open source game development studio.
 
-### Markdown
-
-This page will be updated soon...
-
+### This page will be updated soon...
