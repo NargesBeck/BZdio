@@ -1,6 +1,6 @@
 body {
   font-family: 'Raleway', sans-serif;
-  background-color: #fefeff;
+  background-color: #1b1b1b;
 }
 
 .layout_padding {
@@ -115,7 +115,7 @@ a:focus {
 }
 
 .sub_page .top_container::before {
-  background-color: #fdd31d;
+  background-color: #704964;
   background-image: none;
 }
 
